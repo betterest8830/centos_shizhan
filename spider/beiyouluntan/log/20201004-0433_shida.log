@@ -1,0 +1,40 @@
+[2020-10-04 04:33:02,334] DEBUG    Starting new HTTPS connection (1): bbs.byr.cn:443
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-10-04 04:33:02,497] DEBUG    https://bbs.byr.cn:443 "POST /user/ajax_login.json HTTP/1.1" 200 None
+[2020-10-04 04:33:02,499] INFO     LOGIN_SUCC
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-10-04 04:33:02,607] DEBUG    https://bbs.byr.cn:443 "GET /default?_uid=onchanging HTTP/1.1" 200 None
+[2020-10-04 04:33:02,609] INFO     SPIDER_SUCC
+[2020-10-04 04:33:02,616] INFO     PARSE_SUCC
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-10-04 04:33:02,690] DEBUG    https://bbs.byr.cn:443 "GET /article/Cycling/173428 HTTP/1.1" 200 None
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-10-04 04:33:02,757] DEBUG    https://bbs.byr.cn:443 "GET /article/Feeling/3156769 HTTP/1.1" 200 None
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-10-04 04:33:04,367] DEBUG    https://bbs.byr.cn:443 "GET /article/Constellations/326533 HTTP/1.1" 200 None
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-10-04 04:33:04,422] DEBUG    https://bbs.byr.cn:443 "GET /article/Job/2103814 HTTP/1.1" 200 None
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-10-04 04:33:04,482] DEBUG    https://bbs.byr.cn:443 "GET /article/Anhui/322849 HTTP/1.1" 200 None
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-10-04 04:33:04,531] DEBUG    https://bbs.byr.cn:443 "GET /article/KaraOK/109072 HTTP/1.1" 200 None
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-10-04 04:33:04,788] DEBUG    https://bbs.byr.cn:443 "GET /article/Swim/128522 HTTP/1.1" 200 None
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-10-04 04:33:04,846] DEBUG    https://bbs.byr.cn:443 "GET /article/Talking/6230358 HTTP/1.1" 200 None
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-10-04 04:33:04,908] DEBUG    https://bbs.byr.cn:443 "GET /article/AimGraduate/1197716 HTTP/1.1" 200 None
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-10-04 04:33:04,973] DEBUG    https://bbs.byr.cn:443 "GET /article/Friends/1971258 HTTP/1.1" 200 None

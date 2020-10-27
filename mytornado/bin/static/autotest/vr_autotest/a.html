@@ -1,0 +1,21 @@
+<html>
+<head>
+    <script>
+        var uri = document.location.href;
+        var pos = uri.indexOf("?");
+        if(pos!=-1)uri = uri.substr(0,pos);
+        var domain = ".sogou.com";
+        if(uri.indexOf("soso.com")>-1)domain = ".soso.com";
+
+        var date = new Date();
+        if(document.cookie.indexOf("SUV=")<0)
+            document.cookie="SUV="+(date.getTime())*1000+Math.round(Math.random()*1000)+";path=/;expires=Sun, 29 July 2046 00:00:00 UTC;domain="+domain;
+
+        date.setTime(date.getTime()+5*24*3600*1000);//2tian
+        document.cookie = "SNUID=6B39BEBBB0B5A570DF479555B1459267; path=/; expires="+date.toGMTString();
+        document.location.href = "/web?query=iphone6&vdbg=on&repp=1";
+    </script>
+</head>
+</html><!--zly-->
+
+fail

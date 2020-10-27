@@ -1,0 +1,1257 @@
+[2020-09-16 11:10:02,865] INFO     SEED_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:03,181] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:03,182] INFO     TEXT_SIZE_OUT: 0
+[2020-09-16 11:10:03,192] INFO     SEED_INFO: https://book.qidian.com/info/1021280511	1
+[2020-09-16 11:10:03,192] INFO     SEED_SIZE_IN: 1
+[2020-09-16 11:10:03,192] INFO     SEED_INFO: https://book.qidian.com/info/1019263100	1
+[2020-09-16 11:10:03,192] INFO     SEED_SIZE_IN: 2
+[2020-09-16 11:10:03,192] INFO     SEED_INFO: https://book.qidian.com/info/1020030201	1
+[2020-09-16 11:10:03,193] INFO     SEED_SIZE_IN: 3
+[2020-09-16 11:10:03,193] INFO     SEED_INFO: https://book.qidian.com/info/1023586405	1
+[2020-09-16 11:10:03,193] INFO     SEED_SIZE_IN: 4
+[2020-09-16 11:10:03,193] INFO     SEED_INFO: https://book.qidian.com/info/1023627861	1
+[2020-09-16 11:10:03,193] INFO     SEED_SIZE_IN: 5
+[2020-09-16 11:10:03,193] INFO     SEED_INFO: https://book.qidian.com/info/1022212941	1
+[2020-09-16 11:10:03,193] INFO     SEED_SIZE_IN: 6
+[2020-09-16 11:10:03,193] INFO     SEED_INFO: https://book.qidian.com/info/1021183456	1
+[2020-09-16 11:10:03,193] INFO     SEED_SIZE_IN: 7
+[2020-09-16 11:10:03,193] INFO     SEED_INFO: https://book.qidian.com/info/1022169638	1
+[2020-09-16 11:10:03,193] INFO     SEED_SIZE_IN: 8
+[2020-09-16 11:10:03,193] INFO     SEED_INFO: https://book.qidian.com/info/1022463579	1
+[2020-09-16 11:10:03,193] INFO     SEED_SIZE_IN: 9
+[2020-09-16 11:10:03,193] INFO     SEED_INFO: https://book.qidian.com/info/1022332383	1
+[2020-09-16 11:10:03,193] INFO     SEED_SIZE_IN: 10
+[2020-09-16 11:10:03,193] INFO     SEED_INFO: https://book.qidian.com/info/1022763145	1
+[2020-09-16 11:10:03,194] INFO     SEED_SIZE_IN: 11
+[2020-09-16 11:10:03,194] INFO     SEED_INFO: https://book.qidian.com/info/1022597464	1
+[2020-09-16 11:10:03,194] INFO     SEED_SIZE_IN: 12
+[2020-09-16 11:10:03,194] INFO     SEED_INFO: https://book.qidian.com/info/1022593468	1
+[2020-09-16 11:10:03,194] INFO     SEED_SIZE_IN: 13
+[2020-09-16 11:10:03,194] INFO     SEED_INFO: https://book.qidian.com/info/1022537562	1
+[2020-09-16 11:10:03,194] INFO     SEED_SIZE_IN: 14
+[2020-09-16 11:10:03,194] INFO     SEED_INFO: https://book.qidian.com/info/1022314396	1
+[2020-09-16 11:10:03,194] INFO     SEED_SIZE_IN: 15
+[2020-09-16 11:10:03,194] INFO     SEED_INFO: https://book.qidian.com/info/1023032559	1
+[2020-09-16 11:10:03,194] INFO     SEED_SIZE_IN: 16
+[2020-09-16 11:10:03,194] INFO     SEED_INFO: https://book.qidian.com/info/1022672531	1
+[2020-09-16 11:10:03,194] INFO     SEED_SIZE_IN: 17
+[2020-09-16 11:10:03,194] INFO     SEED_INFO: https://book.qidian.com/info/1022596603	1
+[2020-09-16 11:10:03,194] INFO     SEED_SIZE_IN: 18
+[2020-09-16 11:10:03,194] INFO     SEED_INFO: https://book.qidian.com/info/1022084259	1
+[2020-09-16 11:10:03,194] INFO     SEED_SIZE_IN: 19
+[2020-09-16 11:10:03,194] INFO     SEED_INFO: https://book.qidian.com/info/1021280061	1
+[2020-09-16 11:10:03,195] INFO     SEED_SIZE_IN: 20
+[2020-09-16 11:10:03,195] INFO     SEED_INFO: https://book.qidian.com/info/1022273239	1
+[2020-09-16 11:10:03,195] INFO     SEED_SIZE_IN: 21
+[2020-09-16 11:10:03,195] INFO     SEED_INFO: https://book.qidian.com/info/1022080664	1
+[2020-09-16 11:10:03,195] INFO     SEED_SIZE_IN: 22
+[2020-09-16 11:10:03,195] INFO     SEED_INFO: https://book.qidian.com/info/1017104539	1
+[2020-09-16 11:10:03,195] INFO     SEED_SIZE_IN: 23
+[2020-09-16 11:10:03,195] INFO     SEED_INFO: https://book.qidian.com/info/1017688195	1
+[2020-09-16 11:10:03,195] INFO     SEED_SIZE_IN: 24
+[2020-09-16 11:10:03,195] INFO     SEED_INFO: https://book.qidian.com/info/1015901168	1
+[2020-09-16 11:10:03,195] INFO     SEED_SIZE_IN: 25
+[2020-09-16 11:10:03,195] INFO     SEED_INFO: https://book.qidian.com/info/1014892472	1
+[2020-09-16 11:10:03,195] INFO     SEED_SIZE_IN: 26
+[2020-09-16 11:10:03,195] INFO     SEED_INFO: https://book.qidian.com/info/1023041663	1
+[2020-09-16 11:10:03,195] INFO     SEED_SIZE_IN: 27
+[2020-09-16 11:10:03,195] INFO     SEED_INFO: https://book.qidian.com/info/1015882648	1
+[2020-09-16 11:10:03,195] INFO     SEED_SIZE_IN: 28
+[2020-09-16 11:10:03,195] INFO     SEED_INFO: https://book.qidian.com/info/1022329687	1
+[2020-09-16 11:10:03,195] INFO     SEED_SIZE_IN: 29
+[2020-09-16 11:10:03,196] INFO     SEED_INFO: https://book.qidian.com/info/1022580378	1
+[2020-09-16 11:10:03,196] INFO     SEED_SIZE_IN: 30
+[2020-09-16 11:10:03,196] INFO     SEED_INFO: https://book.qidian.com/info/1021279325	1
+[2020-09-16 11:10:03,196] INFO     SEED_SIZE_IN: 31
+[2020-09-16 11:10:03,196] INFO     SEED_INFO: https://book.qidian.com/info/1017169126	1
+[2020-09-16 11:10:03,196] INFO     SEED_SIZE_IN: 32
+[2020-09-16 11:10:03,196] INFO     SEED_INFO: https://book.qidian.com/info/1022070293	1
+[2020-09-16 11:10:03,196] INFO     SEED_SIZE_IN: 33
+[2020-09-16 11:10:03,196] INFO     SEED_INFO: https://book.qidian.com/info/1019578238	1
+[2020-09-16 11:10:03,196] INFO     SEED_SIZE_IN: 34
+[2020-09-16 11:10:03,196] INFO     SEED_INFO: https://book.qidian.com/info/1019710963	1
+[2020-09-16 11:10:03,196] INFO     SEED_SIZE_IN: 35
+[2020-09-16 11:10:03,196] INFO     SEED_INFO: https://book.qidian.com/info/1022939709	1
+[2020-09-16 11:10:03,196] INFO     SEED_SIZE_IN: 36
+[2020-09-16 11:10:03,196] INFO     SEED_INFO: https://book.qidian.com/info/1022899262	1
+[2020-09-16 11:10:03,196] INFO     SEED_SIZE_IN: 37
+[2020-09-16 11:10:03,196] INFO     SEED_INFO: https://book.qidian.com/info/1022909523	1
+[2020-09-16 11:10:03,196] INFO     SEED_SIZE_IN: 38
+[2020-09-16 11:10:03,197] INFO     SEED_INFO: https://book.qidian.com/info/1019941746	1
+[2020-09-16 11:10:03,197] INFO     SEED_SIZE_IN: 39
+[2020-09-16 11:10:03,197] INFO     SEED_INFO: https://book.qidian.com/info/1023212048	1
+[2020-09-16 11:10:03,197] INFO     SEED_SIZE_IN: 40
+[2020-09-16 11:10:03,197] INFO     SEED_INFO: https://book.qidian.com/info/1022757368	1
+[2020-09-16 11:10:03,197] INFO     SEED_SIZE_IN: 41
+[2020-09-16 11:10:03,197] INFO     SEED_INFO: https://book.qidian.com/info/1022435506	1
+[2020-09-16 11:10:03,197] INFO     SEED_SIZE_IN: 42
+[2020-09-16 11:10:03,197] INFO     SEED_INFO: https://book.qidian.com/info/1022903063	1
+[2020-09-16 11:10:03,197] INFO     SEED_SIZE_IN: 43
+[2020-09-16 11:10:03,197] INFO     SEED_INFO: https://book.qidian.com/info/1023029576	1
+[2020-09-16 11:10:03,197] INFO     SEED_SIZE_IN: 44
+[2020-09-16 11:10:03,197] INFO     SEED_INFO: https://book.qidian.com/info/1022763490	1
+[2020-09-16 11:10:03,197] INFO     SEED_SIZE_IN: 45
+[2020-09-16 11:10:03,197] INFO     SEED_INFO: https://book.qidian.com/info/1023032608	1
+[2020-09-16 11:10:03,197] INFO     SEED_SIZE_IN: 46
+[2020-09-16 11:10:03,197] INFO     SEED_INFO: https://book.qidian.com/info/1022654184	1
+[2020-09-16 11:10:03,198] INFO     SEED_SIZE_IN: 47
+[2020-09-16 11:10:03,198] INFO     SEED_INFO: https://book.qidian.com/info/1022560114	1
+[2020-09-16 11:10:03,198] INFO     SEED_SIZE_IN: 48
+[2020-09-16 11:10:03,198] INFO     SEED_INFO: https://book.qidian.com/info/1023058602	1
+[2020-09-16 11:10:03,198] INFO     SEED_SIZE_IN: 49
+[2020-09-16 11:10:03,198] INFO     SEED_INFO: https://book.qidian.com/info/1022476741	1
+[2020-09-16 11:10:03,198] INFO     SEED_SIZE_IN: 50
+[2020-09-16 11:10:03,198] INFO     SEED_INFO: https://book.qidian.com/info/1023034342	1
+[2020-09-16 11:10:03,198] INFO     SEED_SIZE_IN: 51
+[2020-09-16 11:10:03,198] INFO     SEED_INFO: https://book.qidian.com/info/1022516740	1
+[2020-09-16 11:10:03,198] INFO     SEED_SIZE_IN: 52
+[2020-09-16 11:10:03,198] INFO     SEED_INFO: https://book.qidian.com/info/1022282526	1
+[2020-09-16 11:10:03,198] INFO     SEED_SIZE_IN: 53
+[2020-09-16 11:10:03,198] INFO     SEED_INFO: https://book.qidian.com/info/1021517869	1
+[2020-09-16 11:10:03,198] INFO     SEED_SIZE_IN: 54
+[2020-09-16 11:10:03,198] INFO     SEED_INFO: https://book.qidian.com/info/1021935657	1
+[2020-09-16 11:10:03,198] INFO     SEED_SIZE_IN: 55
+[2020-09-16 11:10:03,199] INFO     SEED_INFO: https://book.qidian.com/info/1022379867	1
+[2020-09-16 11:10:03,199] INFO     SEED_SIZE_IN: 56
+[2020-09-16 11:10:03,199] INFO     SEED_INFO: https://book.qidian.com/info/1021875715	1
+[2020-09-16 11:10:03,199] INFO     SEED_SIZE_IN: 57
+[2020-09-16 11:10:03,199] INFO     SEED_INFO: https://book.qidian.com/info/1022051825	1
+[2020-09-16 11:10:03,199] INFO     SEED_SIZE_IN: 58
+[2020-09-16 11:10:03,199] INFO     SEED_INFO: https://book.qidian.com/info/1022354901	1
+[2020-09-16 11:10:03,199] INFO     SEED_SIZE_IN: 59
+[2020-09-16 11:10:03,199] INFO     SEED_INFO: https://book.qidian.com/info/1021854930	1
+[2020-09-16 11:10:03,199] INFO     SEED_SIZE_IN: 60
+[2020-09-16 11:10:03,199] INFO     SEED_INFO: https://book.qidian.com/info/1021920885	1
+[2020-09-16 11:10:03,199] INFO     SEED_SIZE_IN: 61
+[2020-09-16 11:10:03,199] INFO     SEED_INFO: https://book.qidian.com/info/1022069596	1
+[2020-09-16 11:10:03,199] INFO     SEED_SIZE_IN: 62
+[2020-09-16 11:10:03,199] INFO     SEED_INFO: https://book.qidian.com/info/1022451178	1
+[2020-09-16 11:10:03,199] INFO     SEED_SIZE_IN: 63
+[2020-09-16 11:10:03,199] INFO     SEED_INFO: https://book.qidian.com/info/1021989369	1
+[2020-09-16 11:10:03,199] INFO     SEED_SIZE_IN: 64
+[2020-09-16 11:10:03,199] INFO     SEED_INFO: https://book.qidian.com/info/1022331577	1
+[2020-09-16 11:10:03,199] INFO     SEED_SIZE_IN: 65
+[2020-09-16 11:10:03,199] INFO     SEED_INFO: https://book.qidian.com/info/1022607439	1
+[2020-09-16 11:10:03,199] INFO     SEED_SIZE_IN: 66
+[2020-09-16 11:10:03,199] INFO     SEED_INFO: https://book.qidian.com/info/1022084688	1
+[2020-09-16 11:10:03,200] INFO     SEED_SIZE_IN: 67
+[2020-09-16 11:10:03,200] INFO     SEED_INFO: https://book.qidian.com/info/1018027842	1
+[2020-09-16 11:10:03,200] INFO     SEED_SIZE_IN: 68
+[2020-09-16 11:10:03,200] INFO     SEED_INFO: https://book.qidian.com/info/1019664125	1
+[2020-09-16 11:10:03,200] INFO     SEED_SIZE_IN: 69
+[2020-09-16 11:10:03,200] INFO     SEED_INFO: https://book.qidian.com/info/1015648531	1
+[2020-09-16 11:10:03,200] INFO     SEED_SIZE_IN: 70
+[2020-09-16 11:10:03,200] INFO     SEED_INFO: https://book.qidian.com/info/1016572786	1
+[2020-09-16 11:10:03,200] INFO     SEED_SIZE_IN: 71
+[2020-09-16 11:10:03,200] INFO     SEED_INFO: https://book.qidian.com/info/1017125042	1
+[2020-09-16 11:10:03,200] INFO     SEED_SIZE_IN: 72
+[2020-09-16 11:10:03,200] INFO     SEED_INFO: https://book.qidian.com/info/1021226784	1
+[2020-09-16 11:10:03,200] INFO     SEED_SIZE_IN: 73
+[2020-09-16 11:10:03,200] INFO     SEED_INFO: https://book.qidian.com/info/1009817672	1
+[2020-09-16 11:10:03,200] INFO     SEED_SIZE_IN: 74
+[2020-09-16 11:10:03,201] INFO     SEED_INFO: https://book.qidian.com/info/1019136570	1
+[2020-09-16 11:10:03,201] INFO     SEED_SIZE_IN: 75
+[2020-09-16 11:10:03,201] INFO     SEED_INFO: https://book.qidian.com/info/1010868264	1
+[2020-09-16 11:10:03,201] INFO     SEED_SIZE_IN: 76
+[2020-09-16 11:10:03,201] INFO     SEED_INFO: https://book.qidian.com/info/1012237441	1
+[2020-09-16 11:10:03,201] INFO     SEED_SIZE_IN: 77
+[2020-09-16 11:10:03,201] INFO     SEED_INFO: https://book.qidian.com/info/1012284323	1
+[2020-09-16 11:10:03,201] INFO     SEED_SIZE_IN: 78
+[2020-09-16 11:10:03,201] INFO     SEED_INFO: https://book.qidian.com/info/1009480992	1
+[2020-09-16 11:10:03,201] INFO     SEED_SIZE_IN: 79
+[2020-09-16 11:10:03,201] INFO     SEED_INFO: https://book.qidian.com/info/1013562540	1
+[2020-09-16 11:10:03,201] INFO     SEED_SIZE_IN: 80
+[2020-09-16 11:10:03,201] INFO     SEED_INFO: https://book.qidian.com/info/1010400217	1
+[2020-09-16 11:10:03,201] INFO     SEED_SIZE_IN: 81
+[2020-09-16 11:10:03,201] INFO     SEED_INFO: https://book.qidian.com/info/1016561112	1
+[2020-09-16 11:10:03,202] INFO     SEED_SIZE_IN: 82
+[2020-09-16 11:10:03,202] INFO     SEED_INFO: https://book.qidian.com/info/1021578188	1
+[2020-09-16 11:10:03,202] INFO     SEED_SIZE_IN: 83
+[2020-09-16 11:10:03,202] INFO     SEED_INFO: https://book.qidian.com/info/1021923768	1
+[2020-09-16 11:10:03,202] INFO     SEED_SIZE_IN: 84
+[2020-09-16 11:10:03,202] INFO     SEED_INFO: https://book.qidian.com/info/1016536348	1
+[2020-09-16 11:10:03,202] INFO     SEED_SIZE_IN: 85
+[2020-09-16 11:10:03,202] INFO     SEED_INFO: https://book.qidian.com/info/1020617535	1
+[2020-09-16 11:10:03,202] INFO     SEED_SIZE_IN: 86
+[2020-09-16 11:10:03,202] INFO     SEED_INFO: https://book.qidian.com/info/1016150754	1
+[2020-09-16 11:10:03,202] INFO     SEED_SIZE_IN: 87
+[2020-09-16 11:10:03,202] INFO     SEED_INFO: https://book.qidian.com/info/1023188346	1
+[2020-09-16 11:10:03,202] INFO     SEED_SIZE_IN: 88
+[2020-09-16 11:10:03,202] INFO     SEED_INFO: https://book.qidian.com/info/1023273536	1
+[2020-09-16 11:10:03,202] INFO     SEED_SIZE_IN: 89
+[2020-09-16 11:10:03,203] INFO     SEED_INFO: https://book.qidian.com/info/1023233212	1
+[2020-09-16 11:10:03,203] INFO     SEED_SIZE_IN: 90
+[2020-09-16 11:10:03,203] INFO     SEED_INFO: https://book.qidian.com/info/1023468159	1
+[2020-09-16 11:10:03,203] INFO     SEED_SIZE_IN: 91
+[2020-09-16 11:10:03,203] INFO     SEED_INFO: https://book.qidian.com/info/1022958788	1
+[2020-09-16 11:10:03,203] INFO     SEED_SIZE_IN: 92
+[2020-09-16 11:10:03,203] INFO     SEED_INFO: https://book.qidian.com/info/1022466643	1
+[2020-09-16 11:10:03,203] INFO     SEED_SIZE_IN: 93
+[2020-09-16 11:10:03,203] INFO     SEED_INFO: https://book.qidian.com/info/1023213447	1
+[2020-09-16 11:10:03,203] INFO     SEED_SIZE_IN: 94
+[2020-09-16 11:10:03,203] INFO     SEED_INFO: https://book.qidian.com/info/1023215696	1
+[2020-09-16 11:10:03,203] INFO     SEED_SIZE_IN: 95
+[2020-09-16 11:10:03,203] INFO     SEED_INFO: https://book.qidian.com/info/1022893151	1
+[2020-09-16 11:10:03,203] INFO     SEED_SIZE_IN: 96
+[2020-09-16 11:10:03,203] INFO     SEED_INFO: https://book.qidian.com/info/1023621065	1
+[2020-09-16 11:10:03,203] INFO     SEED_SIZE_IN: 97
+[2020-09-16 11:10:03,203] INFO     SEED_INFO: https://book.qidian.com/info/1023558173	1
+[2020-09-16 11:10:03,203] INFO     SEED_SIZE_IN: 98
+[2020-09-16 11:10:03,203] INFO     SEED_INFO: https://book.qidian.com/info/1023439204	1
+[2020-09-16 11:10:03,203] INFO     SEED_SIZE_IN: 99
+[2020-09-16 11:10:03,203] INFO     SEED_INFO: https://book.qidian.com/info/1023143263	1
+[2020-09-16 11:10:03,203] INFO     SEED_SIZE_IN: 100
+[2020-09-16 11:10:03,203] INFO     SEED_INFO: https://book.qidian.com/info/1016313375	1
+[2020-09-16 11:10:03,203] INFO     SEED_SIZE_IN: 101
+[2020-09-16 11:10:03,204] INFO     SEED_INFO: https://book.qidian.com/info/1018023786	1
+[2020-09-16 11:10:03,204] INFO     SEED_SIZE_IN: 102
+[2020-09-16 11:10:03,204] INFO     SEED_INFO: https://book.qidian.com/info/1022866202	1
+[2020-09-16 11:10:03,204] INFO     SEED_SIZE_IN: 103
+[2020-09-16 11:10:03,204] INFO     SEED_INFO: https://book.qidian.com/info/1023035448	1
+[2020-09-16 11:10:03,204] INFO     SEED_SIZE_IN: 104
+[2020-09-16 11:10:03,204] INFO     SEED_INFO: https://book.qidian.com/info/1023276345	1
+[2020-09-16 11:10:03,204] INFO     SEED_SIZE_IN: 105
+[2020-09-16 11:10:03,204] INFO     SEED_INFO: https://book.qidian.com/info/1022890932	1
+[2020-09-16 11:10:03,204] INFO     SEED_SIZE_IN: 106
+[2020-09-16 11:10:03,204] INFO     SEED_INFO: https://book.qidian.com/info/1022901347	1
+[2020-09-16 11:10:03,204] INFO     SEED_SIZE_IN: 107
+[2020-09-16 11:10:03,204] INFO     SEED_INFO: https://book.qidian.com/info/1023230622	1
+[2020-09-16 11:10:03,204] INFO     SEED_SIZE_IN: 108
+[2020-09-16 11:10:03,204] INFO     SEED_INFO: https://book.qidian.com/info/1022244382	1
+[2020-09-16 11:10:03,204] INFO     SEED_SIZE_IN: 109
+[2020-09-16 11:10:03,204] INFO     SEED_INFO: https://book.qidian.com/info/1023303665	1
+[2020-09-16 11:10:03,204] INFO     SEED_SIZE_IN: 110
+[2020-09-16 11:10:03,204] INFO     SEED_INFO: https://book.qidian.com/info/1022649479	1
+[2020-09-16 11:10:03,204] INFO     SEED_SIZE_IN: 111
+[2020-09-16 11:10:03,205] INFO     SEED_INFO: https://book.qidian.com/info/1022464844	1
+[2020-09-16 11:10:03,205] INFO     SEED_SIZE_IN: 112
+[2020-09-16 11:10:03,205] INFO     SEED_INFO: https://book.qidian.com/info/1022888974	1
+[2020-09-16 11:10:03,205] INFO     SEED_SIZE_IN: 113
+[2020-09-16 11:10:03,205] INFO     SEED_INFO: https://book.qidian.com/info/1022834074	1
+[2020-09-16 11:10:03,205] INFO     SEED_SIZE_IN: 114
+[2020-09-16 11:10:03,205] INFO     SEED_INFO: https://book.qidian.com/info/1022373656	1
+[2020-09-16 11:10:03,205] INFO     SEED_SIZE_IN: 115
+[2020-09-16 11:10:03,205] INFO     SEED_INFO: https://book.qidian.com/info/1023208487	1
+[2020-09-16 11:10:03,205] INFO     SEED_SIZE_IN: 116
+[2020-09-16 11:10:03,205] INFO     SEED_INFO: https://book.qidian.com/info/1017377516	1
+[2020-09-16 11:10:03,205] INFO     SEED_SIZE_IN: 117
+[2020-09-16 11:10:03,205] INFO     SEED_INFO: https://book.qidian.com/info/1022878303	1
+[2020-09-16 11:10:03,205] INFO     SEED_SIZE_IN: 118
+[2020-09-16 11:10:03,205] INFO     SEED_INFO: https://book.qidian.com/info/1022022197	1
+[2020-09-16 11:10:03,205] INFO     SEED_SIZE_IN: 119
+[2020-09-16 11:10:03,205] INFO     SEED_INFO: https://book.qidian.com/info/1022078365	1
+[2020-09-16 11:10:03,205] INFO     SEED_SIZE_IN: 120
+[2020-09-16 11:10:03,205] INFO     SEED_INFO: https://book.qidian.com/info/1022723358	1
+[2020-09-16 11:10:03,205] INFO     SEED_SIZE_IN: 121
+[2020-09-16 11:10:03,205] INFO     SEED_INFO: https://book.qidian.com/info/1022988688	1
+[2020-09-16 11:10:03,205] INFO     SEED_SIZE_IN: 122
+[2020-09-16 11:10:03,206] INFO     SEED_INFO: https://book.qidian.com/info/1023353918	1
+[2020-09-16 11:10:03,206] INFO     SEED_SIZE_IN: 123
+[2020-09-16 11:10:03,206] INFO     SEED_INFO: https://book.qidian.com/info/1023352732	1
+[2020-09-16 11:10:03,206] INFO     SEED_SIZE_IN: 124
+[2020-09-16 11:10:03,206] INFO     SEED_INFO: https://book.qidian.com/info/1023426760	1
+[2020-09-16 11:10:03,206] INFO     SEED_SIZE_IN: 125
+[2020-09-16 11:10:03,206] INFO     SEED_INFO: https://book.qidian.com/info/1022757592	1
+[2020-09-16 11:10:03,206] INFO     SEED_SIZE_IN: 126
+[2020-09-16 11:10:03,206] INFO     SEED_INFO: https://book.qidian.com/info/1023023850	1
+[2020-09-16 11:10:03,206] INFO     SEED_SIZE_IN: 127
+[2020-09-16 11:10:03,206] INFO     SEED_INFO: https://book.qidian.com/info/1023004449	1
+[2020-09-16 11:10:03,206] INFO     SEED_SIZE_IN: 128
+[2020-09-16 11:10:03,206] INFO     SEED_INFO: https://book.qidian.com/info/1023210891	1
+[2020-09-16 11:10:03,206] INFO     SEED_SIZE_IN: 129
+[2020-09-16 11:10:03,206] INFO     SEED_INFO: https://book.qidian.com/info/1023029780	1
+[2020-09-16 11:10:03,206] INFO     SEED_SIZE_IN: 130
+[2020-09-16 11:10:03,206] INFO     SEED_INFO: https://book.qidian.com/info/1023205333	1
+[2020-09-16 11:10:03,206] INFO     SEED_SIZE_IN: 131
+[2020-09-16 11:10:03,206] INFO     SEED_INFO: https://book.qidian.com/info/1023038958	1
+[2020-09-16 11:10:03,206] INFO     SEED_SIZE_IN: 132
+[2020-09-16 11:10:03,206] INFO     SEED_INFO: https://book.qidian.com/info/1022654736	1
+[2020-09-16 11:10:03,206] INFO     SEED_SIZE_IN: 133
+[2020-09-16 11:10:03,207] INFO     SEED_INFO: https://book.qidian.com/info/1023235663	1
+[2020-09-16 11:10:03,207] INFO     SEED_SIZE_IN: 134
+[2020-09-16 11:10:03,207] INFO     SEED_INFO: https://book.qidian.com/info/1023281795	1
+[2020-09-16 11:10:03,207] INFO     SEED_SIZE_IN: 135
+[2020-09-16 11:10:03,207] INFO     SEED_INFO: https://book.qidian.com/info/1022788128	1
+[2020-09-16 11:10:03,207] INFO     SEED_SIZE_IN: 136
+[2020-09-16 11:10:03,207] INFO     SEED_INFO: https://book.qidian.com/info/1022795539	1
+[2020-09-16 11:10:03,207] INFO     SEED_SIZE_IN: 137
+[2020-09-16 11:10:03,207] INFO     SEED_INFO: https://book.qidian.com/info/1022538014	1
+[2020-09-16 11:10:03,207] INFO     SEED_SIZE_IN: 138
+[2020-09-16 11:10:03,207] INFO     SEED_INFO: https://book.qidian.com/info/1023021841	1
+[2020-09-16 11:10:03,207] INFO     SEED_SIZE_IN: 139
+[2020-09-16 11:10:03,207] INFO     SEED_INFO: https://book.qidian.com/info/1022971085	1
+[2020-09-16 11:10:03,207] INFO     SEED_SIZE_IN: 140
+[2020-09-16 11:10:03,207] INFO     SEED_INFO: https://book.qidian.com/info/1022051774	1
+[2020-09-16 11:10:03,207] INFO     SEED_SIZE_IN: 141
+[2020-09-16 11:10:03,207] INFO     SEED_INFO: https://book.qidian.com/info/1023037043	1
+[2020-09-16 11:10:03,207] INFO     SEED_SIZE_IN: 142
+[2020-09-16 11:10:03,207] INFO     SEED_INFO: https://book.qidian.com/info/1022851882	1
+[2020-09-16 11:10:03,207] INFO     SEED_SIZE_IN: 143
+[2020-09-16 11:10:03,208] INFO     SEED_INFO: https://book.qidian.com/info/1023511893	1
+[2020-09-16 11:10:03,208] INFO     SEED_SIZE_IN: 144
+[2020-09-16 11:10:03,208] INFO     SEED_INFO: https://book.qidian.com/info/1023397979	1
+[2020-09-16 11:10:03,208] INFO     SEED_SIZE_IN: 145
+[2020-09-16 11:10:03,208] INFO     SEED_INFO: https://book.qidian.com/info/1023116083	1
+[2020-09-16 11:10:03,208] INFO     SEED_SIZE_IN: 146
+[2020-09-16 11:10:03,208] INFO     SEED_INFO: https://book.qidian.com/info/1023192385	1
+[2020-09-16 11:10:03,208] INFO     SEED_SIZE_IN: 147
+[2020-09-16 11:10:03,208] INFO     SEED_INFO: https://book.qidian.com/info/1022903694	1
+[2020-09-16 11:10:03,208] INFO     SEED_SIZE_IN: 148
+[2020-09-16 11:10:03,208] INFO     SEED_INFO: https://book.qidian.com/info/1021814750	1
+[2020-09-16 11:10:03,208] INFO     SEED_SIZE_IN: 149
+[2020-09-16 11:10:03,208] INFO     SEED_INFO: https://book.qidian.com/info/1023088161	1
+[2020-09-16 11:10:03,208] INFO     SEED_SIZE_IN: 150
+[2020-09-16 11:10:03,208] INFO     SEED_INFO: https://book.qidian.com/info/1023525032	1
+[2020-09-16 11:10:03,208] INFO     SEED_SIZE_IN: 151
+[2020-09-16 11:10:03,208] INFO     SEED_INFO: https://book.qidian.com/info/1022636903	1
+[2020-09-16 11:10:03,208] INFO     SEED_SIZE_IN: 152
+[2020-09-16 11:10:03,208] INFO     SEED_INFO: https://book.qidian.com/info/1023358965	1
+[2020-09-16 11:10:03,209] INFO     SEED_SIZE_IN: 153
+[2020-09-16 11:10:03,209] INFO     SEED_INFO: https://book.qidian.com/info/1023032750	1
+[2020-09-16 11:10:03,209] INFO     SEED_SIZE_IN: 154
+[2020-09-16 11:10:03,209] INFO     SEED_INFO: https://book.qidian.com/info/1022620682	1
+[2020-09-16 11:10:03,209] INFO     SEED_SIZE_IN: 155
+[2020-09-16 11:10:03,209] INFO     SEED_INFO: https://book.qidian.com/info/3461835	1
+[2020-09-16 11:10:03,209] INFO     SEED_SIZE_IN: 156
+[2020-09-16 11:10:03,209] INFO     SEED_INFO: https://book.qidian.com/info/1005235275	1
+[2020-09-16 11:10:03,209] INFO     SEED_SIZE_IN: 157
+[2020-09-16 11:10:03,209] INFO     SEED_INFO: https://book.qidian.com/info/1016267237	1
+[2020-09-16 11:10:03,209] INFO     SEED_SIZE_IN: 158
+[2020-09-16 11:10:03,209] INFO     SEED_INFO: https://book.qidian.com/info/1003541158	1
+[2020-09-16 11:10:03,209] INFO     SEED_SIZE_IN: 159
+[2020-09-16 11:10:03,209] INFO     SEED_INFO: https://book.qidian.com/info/1264634	1
+[2020-09-16 11:10:03,209] INFO     SEED_SIZE_IN: 160
+[2020-09-16 11:10:03,209] INFO     SEED_INFO: https://book.qidian.com/info/3434900	1
+[2020-09-16 11:10:03,209] INFO     SEED_SIZE_IN: 161
+[2020-09-16 11:10:03,209] INFO     SEED_INFO: https://book.qidian.com/info/1013027141	1
+[2020-09-16 11:10:03,209] INFO     SEED_SIZE_IN: 162
+[2020-09-16 11:10:03,209] INFO     SEED_INFO: https://book.qidian.com/info/3448152	1
+[2020-09-16 11:10:03,210] INFO     SEED_SIZE_IN: 163
+[2020-09-16 11:10:03,210] INFO     SEED_INFO: https://book.qidian.com/info/1016550858	1
+[2020-09-16 11:10:03,210] INFO     SEED_SIZE_IN: 164
+[2020-09-16 11:10:03,210] INFO     SEED_INFO: https://book.qidian.com/info/1005406190	1
+[2020-09-16 11:10:03,210] INFO     SEED_SIZE_IN: 165
+[2020-09-16 11:10:03,210] INFO     SEED_INFO: https://book.qidian.com/info/1004080311	1
+[2020-09-16 11:10:03,210] INFO     SEED_SIZE_IN: 166
+[2020-09-16 11:10:03,210] INFO     SEED_INFO: https://book.qidian.com/info/1014272182	1
+[2020-09-16 11:10:03,210] INFO     SEED_SIZE_IN: 167
+[2020-09-16 11:10:03,210] INFO     SEED_INFO: https://book.qidian.com/info/1012483605	1
+[2020-09-16 11:10:03,210] INFO     SEED_SIZE_IN: 168
+[2020-09-16 11:10:03,210] INFO     SEED_INFO: https://book.qidian.com/info/1015096263	1
+[2020-09-16 11:10:03,210] INFO     SEED_SIZE_IN: 169
+[2020-09-16 11:10:03,210] INFO     SEED_INFO: https://book.qidian.com/info/1011049064	1
+[2020-09-16 11:10:03,210] INFO     SEED_SIZE_IN: 170
+[2020-09-16 11:10:03,210] INFO     SEED_INFO: https://book.qidian.com/info/1010779554	1
+[2020-09-16 11:10:03,210] INFO     SEED_SIZE_IN: 171
+[2020-09-16 11:10:03,210] INFO     SEED_INFO: https://book.qidian.com/info/1012259707	1
+[2020-09-16 11:10:03,210] INFO     SEED_SIZE_IN: 172
+[2020-09-16 11:10:03,210] INFO     SEED_INFO: https://book.qidian.com/info/1013432711	1
+[2020-09-16 11:10:03,210] INFO     SEED_SIZE_IN: 173
+[2020-09-16 11:10:03,210] INFO     SEED_INFO: https://book.qidian.com/info/1011044566	1
+[2020-09-16 11:10:03,211] INFO     SEED_SIZE_IN: 174
+[2020-09-16 11:10:03,211] INFO     SEED_INFO: https://book.qidian.com/info/1016549547	1
+[2020-09-16 11:10:03,211] INFO     SEED_SIZE_IN: 175
+[2020-09-16 11:10:03,211] INFO     SEED_INFO: https://book.qidian.com/info/1022595615	1
+[2020-09-16 11:10:03,211] INFO     SEED_SIZE_IN: 176
+[2020-09-16 11:10:03,211] INFO     SEED_INFO: https://book.qidian.com/info/1021487354	1
+[2020-09-16 11:10:03,211] INFO     SEED_SIZE_IN: 177
+[2020-09-16 11:10:03,212] INFO     SEED_INFO: https://book.qidian.com/info/1023682770	1
+[2020-09-16 11:10:03,212] INFO     SEED_SIZE_IN: 178
+[2020-09-16 11:10:03,212] INFO     SEED_INFO: https://book.qidian.com/info/1021707914	1
+[2020-09-16 11:10:03,212] INFO     SEED_SIZE_IN: 179
+[2020-09-16 11:10:03,212] INFO     SEED_INFO: https://book.qidian.com/info/1016876724	1
+[2020-09-16 11:10:03,212] INFO     SEED_SIZE_IN: 180
+[2020-09-16 11:10:03,212] INFO     SEED_INFO: https://book.qidian.com/info/1017333705	1
+[2020-09-16 11:10:03,212] INFO     SEED_SIZE_IN: 181
+[2020-09-16 11:10:03,212] INFO     SEED_INFO: https://book.qidian.com/info/1023390264	1
+[2020-09-16 11:10:03,212] INFO     SEED_SIZE_IN: 182
+[2020-09-16 11:10:03,213] INFO     SEED_INFO: https://book.qidian.com/info/1023370944	1
+[2020-09-16 11:10:03,213] INFO     SEED_SIZE_IN: 183
+[2020-09-16 11:10:03,214] INFO     SEED_INFO: https://book.qidian.com/info/1021826010	1
+[2020-09-16 11:10:03,214] INFO     SEED_SIZE_IN: 184
+[2020-09-16 11:10:03,214] INFO     SEED_INFO: https://book.qidian.com/info/1023041517	1
+[2020-09-16 11:10:03,214] INFO     SEED_SIZE_IN: 185
+[2020-09-16 11:10:03,214] INFO     SEED_INFO: https://book.qidian.com/info/1023512174	1
+[2020-09-16 11:10:03,214] INFO     SEED_SIZE_IN: 186
+[2020-09-16 11:10:03,214] INFO     SEED_INFO: https://book.qidian.com/info/1021407001	1
+[2020-09-16 11:10:03,214] INFO     SEED_SIZE_IN: 187
+[2020-09-16 11:10:03,215] INFO     SEED_INFO: https://book.qidian.com/info/1015824788	1
+[2020-09-16 11:10:03,215] INFO     SEED_SIZE_IN: 188
+[2020-09-16 11:10:03,215] INFO     SEED_INFO: https://book.qidian.com/info/1023321359	1
+[2020-09-16 11:10:03,215] INFO     SEED_SIZE_IN: 189
+[2020-09-16 11:10:03,215] INFO     SEED_INFO: https://book.qidian.com/info/1023497962	1
+[2020-09-16 11:10:03,215] INFO     SEED_SIZE_IN: 190
+[2020-09-16 11:10:03,215] INFO     SEED_INFO: https://book.qidian.com/info/1022459774	1
+[2020-09-16 11:10:03,215] INFO     SEED_SIZE_IN: 191
+[2020-09-16 11:10:03,215] INFO     SEED_INFO: https://book.qidian.com/info/1020268256	1
+[2020-09-16 11:10:03,215] INFO     SEED_SIZE_IN: 192
+[2020-09-16 11:10:03,215] INFO     SEED_INFO: https://book.qidian.com/info/1023541798	1
+[2020-09-16 11:10:03,215] INFO     SEED_SIZE_IN: 193
+[2020-09-16 11:10:03,215] INFO     SEED_INFO: https://book.qidian.com/info/1022932898	1
+[2020-09-16 11:10:03,215] INFO     SEED_SIZE_IN: 194
+[2020-09-16 11:10:03,216] INFO     SEED_INFO: https://book.qidian.com/info/1023462639	1
+[2020-09-16 11:10:03,216] INFO     SEED_SIZE_IN: 195
+[2020-09-16 11:10:03,216] INFO     SEED_INFO: https://book.qidian.com/info/1023693524	1
+[2020-09-16 11:10:03,216] INFO     SEED_SIZE_IN: 196
+[2020-09-16 11:10:03,216] INFO     SEED_INFO: https://book.qidian.com/info/1023490887	1
+[2020-09-16 11:10:03,216] INFO     SEED_SIZE_IN: 197
+[2020-09-16 11:10:03,216] INFO     SEED_INFO: https://book.qidian.com/info/1023704624	1
+[2020-09-16 11:10:03,216] INFO     SEED_SIZE_IN: 198
+[2020-09-16 11:10:03,216] INFO     SEED_INFO: https://book.qidian.com/info/1023383362	1
+[2020-09-16 11:10:03,216] INFO     SEED_SIZE_IN: 199
+[2020-09-16 11:10:03,216] INFO     SEED_INFO: https://book.qidian.com/info/1023542185	1
+[2020-09-16 11:10:03,216] INFO     SEED_SIZE_IN: 200
+[2020-09-16 11:10:03,216] INFO     SEED_INFO: https://book.qidian.com/info/1023482157	1
+[2020-09-16 11:10:03,216] INFO     SEED_SIZE_IN: 201
+[2020-09-16 11:10:03,216] INFO     SEED_INFO: https://book.qidian.com/info/1023577458	1
+[2020-09-16 11:10:03,216] INFO     SEED_SIZE_IN: 202
+[2020-09-16 11:10:03,217] INFO     SEED_INFO: https://book.qidian.com/info/1023588623	1
+[2020-09-16 11:10:03,217] INFO     SEED_SIZE_IN: 203
+[2020-09-16 11:10:03,217] INFO     SEED_INFO: https://book.qidian.com/info/1022679939	1
+[2020-09-16 11:10:03,217] INFO     SEED_SIZE_IN: 204
+[2020-09-16 11:10:03,217] INFO     SEED_INFO: https://book.qidian.com/info/1022059050	1
+[2020-09-16 11:10:03,217] INFO     SEED_SIZE_IN: 205
+[2020-09-16 11:10:03,217] INFO     SEED_INFO: https://book.qidian.com/info/1023546476	1
+[2020-09-16 11:10:03,217] INFO     SEED_SIZE_IN: 206
+[2020-09-16 11:10:03,217] INFO     SEED_INFO: https://book.qidian.com/info/1023592057	1
+[2020-09-16 11:10:03,217] INFO     SEED_SIZE_IN: 207
+[2020-09-16 11:10:03,217] INFO     SEED_INFO: https://book.qidian.com/info/1023612184	1
+[2020-09-16 11:10:03,217] INFO     SEED_SIZE_IN: 208
+[2020-09-16 11:10:03,217] INFO     SEED_INFO: https://book.qidian.com/info/1023661145	1
+[2020-09-16 11:10:03,217] INFO     SEED_SIZE_IN: 209
+[2020-09-16 11:10:03,217] INFO     SEED_INFO: https://book.qidian.com/info/1023172141	1
+[2020-09-16 11:10:03,217] INFO     SEED_SIZE_IN: 210
+[2020-09-16 11:10:03,218] INFO     SEED_INFO: https://book.qidian.com/info/1023323652	1
+[2020-09-16 11:10:03,218] INFO     SEED_SIZE_IN: 211
+[2020-09-16 11:10:03,218] INFO     SEED_INFO: https://book.qidian.com/info/1022820812	1
+[2020-09-16 11:10:03,218] INFO     SEED_SIZE_IN: 212
+[2020-09-16 11:10:03,218] INFO     SEED_INFO: https://book.qidian.com/info/1022298297	1
+[2020-09-16 11:10:03,218] INFO     SEED_SIZE_IN: 213
+[2020-09-16 11:10:03,218] INFO     SEED_INFO: https://book.qidian.com/info/1023702523	1
+[2020-09-16 11:10:03,218] INFO     SEED_SIZE_IN: 214
+[2020-09-16 11:10:03,218] INFO     SEED_INFO: https://book.qidian.com/info/3393401	1
+[2020-09-16 11:10:03,218] INFO     SEED_SIZE_IN: 215
+[2020-09-16 11:10:03,218] INFO     SEED_INFO: https://book.qidian.com/info/1015818676	1
+[2020-09-16 11:10:03,218] INFO     SEED_SIZE_IN: 216
+[2020-09-16 11:10:03,219] INFO     SEED_INFO: https://book.qidian.com/info/1019748705	1
+[2020-09-16 11:10:03,219] INFO     SEED_SIZE_IN: 217
+[2020-09-16 11:10:03,219] INFO     SEED_INFO: https://book.qidian.com/info/1020277784	1
+[2020-09-16 11:10:03,219] INFO     SEED_SIZE_IN: 218
+[2020-09-16 11:10:03,219] INFO     SEED_INFO: https://book.qidian.com/info/1017273726	1
+[2020-09-16 11:10:03,219] INFO     SEED_SIZE_IN: 219
+[2020-09-16 11:10:03,219] INFO     SEED_INFO: https://book.qidian.com/info/1020480534	1
+[2020-09-16 11:10:03,219] INFO     SEED_SIZE_IN: 220
+[2020-09-16 11:10:03,219] INFO     SEED_INFO: https://book.qidian.com/info/1022122235	1
+[2020-09-16 11:10:03,219] INFO     SEED_SIZE_IN: 221
+[2020-09-16 11:10:03,219] INFO     SEED_INFO: https://book.qidian.com/info/1017895367	1
+[2020-09-16 11:10:03,219] INFO     SEED_SIZE_IN: 222
+[2020-09-16 11:10:03,219] INFO     SEED_INFO: https://book.qidian.com/info/1021900460	1
+[2020-09-16 11:10:03,219] INFO     SEED_SIZE_IN: 223
+[2020-09-16 11:10:03,220] INFO     SEED_INFO: https://book.qidian.com/info/1019982662	1
+[2020-09-16 11:10:03,220] INFO     SEED_SIZE_IN: 224
+[2020-09-16 11:10:03,220] INFO     SEED_INFO: https://book.qidian.com/info/1022095125	1
+[2020-09-16 11:10:03,220] INFO     SEED_SIZE_IN: 225
+[2020-09-16 11:10:03,220] INFO     SEED_INFO: https://book.qidian.com/info/1018007775	1
+[2020-09-16 11:10:03,220] INFO     SEED_SIZE_IN: 226
+[2020-09-16 11:10:03,220] INFO     SEED_INFO: https://book.qidian.com/info/1015754405	1
+[2020-09-16 11:10:03,220] INFO     SEED_SIZE_IN: 227
+[2020-09-16 11:10:03,220] INFO     SEED_INFO: https://book.qidian.com/info/1013920370	1
+[2020-09-16 11:10:03,220] INFO     SEED_SIZE_IN: 228
+[2020-09-16 11:10:03,220] INFO     SEED_INFO: https://book.qidian.com/info/1017499136	1
+[2020-09-16 11:10:03,220] INFO     SEED_SIZE_IN: 229
+[2020-09-16 11:10:03,220] INFO     SEED_INFO: https://book.qidian.com/info/1004644404	1
+[2020-09-16 11:10:03,220] INFO     SEED_SIZE_IN: 230
+[2020-09-16 11:10:03,220] INFO     SEED_INFO: https://book.qidian.com/info/1010963982	1
+[2020-09-16 11:10:03,221] INFO     SEED_SIZE_IN: 231
+[2020-09-16 11:10:03,221] INFO     SEED_INFO: https://book.qidian.com/info/63856	1
+[2020-09-16 11:10:03,221] INFO     SEED_SIZE_IN: 232
+[2020-09-16 11:10:03,221] INFO     SEED_INFO: https://book.qidian.com/info/1735921	1
+[2020-09-16 11:10:03,221] INFO     SEED_SIZE_IN: 233
+[2020-09-16 11:10:03,221] INFO     SEED_INFO: https://book.qidian.com/info/2182740	1
+[2020-09-16 11:10:03,221] INFO     SEED_SIZE_IN: 234
+[2020-09-16 11:10:03,221] INFO     SEED_INFO: https://book.qidian.com/info/2643379	1
+[2020-09-16 11:10:03,221] INFO     SEED_SIZE_IN: 235
+[2020-09-16 11:10:03,221] INFO     SEED_INFO: https://book.qidian.com/info/3249362	1
+[2020-09-16 11:10:03,221] INFO     SEED_SIZE_IN: 236
+[2020-09-16 11:10:03,221] INFO     SEED_INFO: https://book.qidian.com/info/1003580078	1
+[2020-09-16 11:10:03,221] INFO     SEED_SIZE_IN: 237
+[2020-09-16 11:10:03,221] INFO     SEED_INFO: https://book.qidian.com/info/1017424898	1
+[2020-09-16 11:10:03,221] INFO     SEED_SIZE_IN: 238
+[2020-09-16 11:10:03,221] INFO     SEED_INFO: https://book.qidian.com/info/1017172478	1
+[2020-09-16 11:10:03,221] INFO     SEED_SIZE_IN: 239
+[2020-09-16 11:10:03,221] INFO     SEED_INFO: https://book.qidian.com/info/1020450986	1
+[2020-09-16 11:10:03,221] INFO     SEED_SIZE_IN: 240
+[2020-09-16 11:10:03,222] INFO     SEED_INFO: https://book.qidian.com/info/1017263533	1
+[2020-09-16 11:10:03,222] INFO     SEED_SIZE_IN: 241
+[2020-09-16 11:10:03,222] INFO     SEED_INFO: https://book.qidian.com/info/1017607541	1
+[2020-09-16 11:10:03,222] INFO     SEED_SIZE_IN: 242
+[2020-09-16 11:10:03,222] INFO     SEED_INFO: https://book.qidian.com/info/1016583450	1
+[2020-09-16 11:10:03,222] INFO     SEED_SIZE_IN: 243
+[2020-09-16 11:10:03,223] INFO     SEED_SIZE_OUT: 242
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:03,518] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:03,518] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:03,519] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:03,853] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:03,853] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:03,854] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:04,135] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:04,135] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:04,136] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:04,462] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:04,462] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:04,463] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:04,697] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:04,697] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:04,698] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:04,958] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:04,958] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:04,959] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:05,287] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:05,288] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:05,289] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:05,520] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:05,520] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:05,521] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:05,793] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:05,793] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:05,794] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:06,038] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:06,038] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:06,039] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:06,291] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:06,291] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:06,292] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:06,535] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:06,535] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:06,536] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:06,826] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:06,826] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:06,827] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:07,057] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:07,057] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:07,058] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:07,336] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:07,336] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:07,337] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:07,601] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:07,601] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:07,602] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:07,862] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:07,862] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:07,862] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:08,091] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:08,091] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:08,092] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:08,348] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:08,348] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:08,349] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:08,553] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:08,553] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:08,554] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:08,797] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:08,797] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:08,798] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:08,998] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:08,998] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:08,999] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:09,313] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:09,314] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:09,315] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:09,603] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:09,603] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:09,604] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:09,920] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:09,920] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:09,921] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:10,194] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:10,194] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:10,195] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:10,447] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:10,447] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:10,448] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:10,717] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:10,717] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:10,718] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:10,936] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:10,936] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:10,937] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:11,205] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:11,205] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:11,206] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:11,445] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:11,445] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:11,453] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:11,700] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:11,700] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:11,701] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:11,934] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:11,934] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:11,936] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:12,193] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:12,193] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:12,194] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:12,490] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:12,491] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:12,492] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:12,705] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:12,705] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:12,706] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:12,918] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:12,918] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:12,919] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:13,153] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:13,153] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:13,154] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:13,379] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:13,379] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:13,380] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:13,621] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:13,621] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:13,622] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:13,829] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:13,829] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:13,830] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:14,038] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:14,038] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:14,039] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:14,248] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:14,248] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:14,249] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:14,482] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:14,482] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:14,483] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:14,769] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:14,769] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:14,770] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:15,055] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:15,055] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:15,056] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:15,262] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:15,262] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:15,263] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:15,462] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:15,462] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:15,463] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:15,675] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:15,675] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:15,676] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:15,921] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:15,921] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:15,922] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:16,121] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:16,121] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:16,122] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:16,321] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:16,321] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:16,322] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:16,532] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:16,532] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:16,533] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:16,798] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:16,798] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:16,799] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:17,010] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:17,010] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:17,011] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:17,234] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:17,234] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:17,235] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:17,463] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:17,463] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:17,463] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:17,695] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:17,695] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:17,696] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:17,999] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:17,999] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:18,000] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:18,240] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:18,241] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:18,242] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:18,434] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:18,434] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:18,435] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:18,640] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:18,640] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:18,641] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:18,904] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:18,904] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:18,905] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:19,169] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:19,169] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:19,170] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:19,394] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:19,394] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:19,395] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:19,617] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:19,617] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:19,619] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:19,814] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:19,814] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:19,815] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:20,104] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:20,104] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:20,105] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:20,440] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:20,440] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:20,441] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:20,790] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:20,791] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:20,792] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:21,257] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:21,257] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:21,259] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:21,612] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:21,612] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:21,613] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:21,889] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:21,889] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:21,890] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:22,093] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:22,093] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:22,094] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:22,347] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:22,347] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:22,348] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:22,547] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:22,547] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:22,548] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:22,797] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:22,798] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:22,799] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:23,025] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:23,026] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:23,027] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:23,234] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:23,234] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:23,235] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:23,452] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:23,452] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:23,453] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:23,659] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:23,660] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:23,660] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:23,930] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:23,930] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:23,931] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:24,176] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:24,176] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:24,177] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:24,429] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:24,429] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:24,431] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:24,739] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:24,739] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:24,740] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:25,059] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:25,060] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:25,060] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:25,466] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:25,466] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:25,467] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:25,799] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:25,799] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:25,800] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:26,034] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:26,034] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:26,035] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:26,249] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:26,249] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:26,251] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:26,449] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:26,449] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:26,450] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:26,662] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:26,662] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:26,663] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:26,871] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:26,871] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:26,872] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:27,074] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:27,074] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:27,075] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:27,326] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:27,327] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:27,327] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:27,529] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:27,529] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:27,530] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:27,771] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:27,771] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:27,772] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:27,983] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:27,983] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:27,984] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:28,213] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:28,213] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:28,214] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:28,424] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:28,424] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:28,425] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:28,673] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:28,673] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:28,674] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:28,991] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:28,991] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:28,992] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:29,199] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:29,199] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:29,200] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:29,400] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:29,400] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:29,401] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:29,604] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:29,604] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:29,605] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:29,832] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:29,832] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:29,833] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:30,052] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:30,052] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:30,053] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:30,247] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:30,247] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:30,248] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:30,540] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:30,540] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:30,541] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:30,837] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:30,837] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:30,838] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:31,060] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:31,060] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:31,060] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:31,270] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:31,270] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:31,271] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:31,468] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:31,468] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:31,469] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:31,686] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:31,686] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:31,687] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:31,892] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:31,892] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:31,892] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:32,107] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:32,107] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:32,108] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:32,402] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:32,402] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:32,404] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:32,630] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:32,630] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:32,631] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:32,866] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:32,866] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:32,867] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:33,066] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:33,066] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:33,067] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:33,311] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:33,312] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:33,312] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:33,519] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:33,519] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:33,520] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:33,807] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:33,807] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:33,808] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:34,045] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:34,045] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:34,046] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:34,294] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:34,294] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:34,295] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:34,505] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:34,505] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:34,506] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:34,708] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:34,708] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:34,709] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:34,924] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:34,924] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:34,926] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:35,137] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:35,137] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:35,138] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:35,407] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:35,407] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:35,408] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:35,789] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:35,789] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:35,790] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:36,030] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:36,030] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:36,031] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:36,259] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:36,259] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:36,260] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:36,471] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:36,471] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:36,472] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:36,721] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:36,721] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:36,722] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:36,960] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:36,960] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:36,961] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:37,187] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:37,187] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:37,188] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:37,432] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:37,432] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:37,433] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:37,680] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:37,680] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:37,681] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:37,890] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:37,890] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:37,891] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:38,152] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:38,153] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:38,154] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:38,388] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:38,388] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:38,389] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:38,675] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:38,675] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:38,676] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:38,924] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:38,924] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:38,925] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:39,130] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:39,131] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:39,132] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:39,348] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:39,348] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:39,349] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:39,585] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:39,585] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:39,585] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:39,829] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:39,829] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:39,830] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:40,050] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:40,050] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:40,051] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:40,261] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:40,261] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:40,262] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:40,475] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:40,475] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:40,475] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:40,729] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:40,729] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:40,729] INFO     TEXT_SIZE_OUT: 0
+/root/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py:857: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+[2020-09-16 11:10:40,919] INFO     TEXT_SIZE_IN: 1
+[2020-09-16 11:10:40,919] INFO     SEED_SIZE_OUT: 241
+[2020-09-16 11:10:40,920] INFO     TEXT_SIZE_OUT: 0
